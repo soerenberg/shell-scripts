@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This is a very simplistic shell script to demonstrate different control
+# flow statements in bash.
+
 raw_items=$(ls)
 
 # We filter out directories. We could have used an appropriate shell command
